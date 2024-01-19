@@ -16,4 +16,4 @@ let creatMyDate = new Date("01-14-2024")
 //console.log(creatMyDate.toLocaleString())
 
 let myTimeStamp = Date.now()
-console.log()
+// console.log(Math.floor(Date.now()/100000))
